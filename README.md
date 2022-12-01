@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gulshanbasouli
-- 👀 I’m interested in doing things on time.
+- 👀 I’m interested in doing things accurately on the time.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Github with all type of requests and help.
 - 📫 How to reach me https://www.upwork.com/freelancers/loeion 
