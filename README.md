@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @gulshanbasouli
-- 👀 I’m interested in doing things accurately on the time.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Github with all type of requests and help.
-- 📫 How to reach me https://www.upwork.com/freelancers/loeion 
-- 📫 website: https://loeion.com
+Hi 👋, I'm Gulshan Chauhan
+Senior Full Stack Developer | WordPress Expert | Laravel Developer
 
-<!---
-gulshanbasouli/gulshanbasouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With over 13 years of experience in web development, I help businesses, startups, and agencies build scalable digital solutions. I specialize in custom development, eCommerce, ERP/CRM systems, and white-label development services.
+
+🚀 About Me
+💼 13+ Years of Professional Experience
+🌎 Working with clients worldwide
+🛒 WooCommerce & Shopify Specialist
+⚙️ Custom PHP & Laravel Development
+🏢 ERP, CRM & Business Automation Solutions
+🤝 Available for Agency Partnerships & White-Label Projects
